@@ -1,0 +1,107 @@
+{
+    "courses" :[
+        {
+          "title": "Core Python",
+          "duration": "45 days",
+          "totalTopics": 29,
+          "fees": "₹11800"
+        },
+        {
+          "title": "CCNA Networking",
+          "duration": "45 days",
+          "totalTopics": 15,
+          "fees": "₹25000"
+        },
+        {
+          "title": "Cyber Security",
+          "duration": "60 days",
+          "totalTopics": 11,
+          "fees": "₹60000"
+        },
+        {
+          "title": "Tableau",
+          "duration": "45 days",
+          "totalTopics": 16,
+          "fees": "₹14160"
+        },
+        {
+          "title": "PowerBI",
+          "duration": "30 days",
+          "totalTopics": 11,
+          "fees": "₹14160"
+        },
+        {
+          "title": "Python for Data Analysis",
+          "duration": "60 days",
+          "totalTopics": 23,
+          "fees": "₹30000"
+        },
+        {
+          "title": "HTML",
+          "duration": "5 days",
+          "totalTopics": 8,
+          "fees": "₹5000"
+        },
+        {
+          "title": "CSS",
+          "duration": "30 days",
+          "totalTopics": 25,
+          "fees": "₹7000"
+        },
+        {
+          "title": "Machine Learning Basic",
+          "duration": "45 days",
+          "totalTopics": 12,
+          "fees": "₹17700"
+        },
+        {
+          "title": "Django",
+          "duration": "30 days",
+          "totalTopics": 16,
+          "fees": "₹8000"
+        },
+        {
+          "title": "SEO",
+          "duration": "10 days",
+          "totalTopics": 2,
+          "fees": "₹8000"
+        },
+        {
+          "title": "SMM",
+          "duration": "20 days",
+          "totalTopics": 3,
+          "fees": "₹2600"
+        },
+        {
+          "title": "Affiliate Marketing",
+          "duration": "3 days",
+          "totalTopics": 1,
+          "fees": "₹2600"
+        },
+        {
+          "title": "Email Marketing",
+          "duration": "5 days",
+          "totalTopics": 1,
+          "fees": "₹2600"
+        },
+        {
+          "title": "WhatsApp Marketing",
+          "duration": "5 days",
+          "totalTopics": 1,
+          "fees": "₹2600"
+        },
+        {
+          "title": "WordPress",
+          "duration": "7 days",
+          "totalTopics": 1,
+          "fees": "₹2600"
+        },
+        {
+          "title": "JavaScript",
+          "duration": "35 days",
+          "totalTopics": 26,
+          "fees": "₹10000"
+        }
+      ]
+
+}
