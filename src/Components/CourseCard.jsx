@@ -9,8 +9,8 @@ function CourseCard() {
                 <div className=" flex flex-wrap justify-start ">
                     {CourseCards.courses.map((item, index) => {
                         return (
-                            <div key={index} className=" w-[22.5rem] mx-5 my-5 p-5 bg-gray-100 border border-gray-300 border-b-8 border-b-violet-800 rounded-lg shadow-lg ">
-                                <h2 className="text-xl font-bold mb-4 text-violet-800 ">
+                            <div key={index} className=" w-[22.5rem] mx-5 my-5 p-5 bg-gray-100 border border-gray-300 border-b-8 border-b-blue-950 rounded-lg shadow-lg ">
+                                <h2 className="text-xl font-bold mb-4 text-blue-950 ">
                                     {item.title}
                                 </h2>
                                 <div className=" flex text-center ">

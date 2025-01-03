@@ -10,11 +10,11 @@ function TestCards() {
                     </div>
                         <div>
                             <div className=" flex items-center justify-between border-b-2 pb-6  ">
-                                <div className=" text-xl text-blue-800 font-bold ">HTML, CSS</div>
+                                <div className=" text-xl text-blue-950 font-bold ">HTML, CSS</div>
                                 <div><i className="fa-solid fa-angle-down text-2xl"></i></div>
                             </div>
                             <div className=" flex items-center justify-between border-b-2 pb-6  ">
-                                <div className=" text-xl text-blue-800 font-bold ">Javascript, React.Js</div>
+                                <div className=" text-xl text-blue-950 font-bold ">Javascript, React.Js</div>
                                 <div><i className="fa-solid fa-angle-down text-2xl"></i></div>
                             </div>
                         </div>
@@ -25,11 +25,11 @@ function TestCards() {
                     </div>
                         <div>
                             <div className=" flex items-center justify-between border-b-2 pb-6  ">
-                                <div className=" text-xl text-blue-800 font-bold ">Javascript</div>
+                                <div className=" text-xl text-blue-950 font-bold ">Javascript</div>
                                 <div><i className="fa-solid fa-angle-down text-2xl"></i></div>
                             </div>
                             <div className=" flex items-center justify-between border-b-2 pb-6  ">
-                                <div className=" text-xl text-blue-800 font-bold ">React.Js</div>
+                                <div className=" text-xl text-blue-950 font-bold ">React.Js</div>
                                 <div><i className="fa-solid fa-angle-down text-2xl"></i></div>
                             </div>
                         </div>  

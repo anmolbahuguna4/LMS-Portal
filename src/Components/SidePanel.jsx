@@ -16,7 +16,7 @@ function SidePanel() {
   return (
     <>
     <div className=" h-[100rem] flex w-full ">
-      <div className=" mt-4 w-[17%] h-[100rem] bg-slate-300 ">
+      <div className=" mt-4 w-[17%] h-[100rem] bg-white ">
         <div className=" ">
             <div className=" mt-2 flex flex-col ps-3 ">
                 <button className= {`${Button_Details} ${Button_Hover} ${active === 1 ? Active_state : ""} `}

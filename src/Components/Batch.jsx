@@ -4,9 +4,9 @@ import BatchCards from "./BatchCards"
 
 function Batch() {
 
-   const Button_details = " border border-violet-800 text-violet-800 font-semibold m-5 px-7 py-2 rounded-[0.3rem] "
-   const Button_Active = " border border-violet-800 text-white font-semibold bg-violet-800 m-5 px-7 py-2 rounded-[0.3rem] "
-   const Button_Hover = " hover:border hover:border-violet-800 hover:text-white hover:font-semibold hover:bg-violet-800 hover:m-5 hover:px-7 hover:py-2 hover:rounded-[0.3rem] "
+   const Button_details = " border border-blue-950 text-blue-950 font-semibold m-5 px-7 py-2 rounded-[0.3rem] "
+   const Button_Active = " border border-blue-950 text-white font-semibold bg-blue-950 m-5 px-7 py-2 rounded-[0.3rem] "
+   const Button_Hover = " hover:border hover:border-blue-950 hover:text-white hover:font-semibold hover:bg-blue-950 hover:m-5 hover:px-7 hover:py-2 hover:rounded-[0.3rem] "
 
    const [choose, setChoose] = useState(0);
 

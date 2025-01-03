@@ -13,7 +13,7 @@ function CreateTest() {
   console.log(handleChange)
   return (
     <>
-      <div className=" bg-gray-200 w-full h-full ">
+      <div className=" bg-white w-full h-full ">
         <div className=" w-[30rem] m-4 flex gap-3 flex-col ">
 
 

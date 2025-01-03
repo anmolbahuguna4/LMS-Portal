@@ -11,7 +11,7 @@ function TestResults() {
 
   return (
     <>
-        <div className=" bg-gray-200 w-full h-full ">
+        <div className=" bg-white w-full h-full ">
             <div className=" w-[30rem] m-4 ">
                 <div className=" flex justify-between items-center ">
                     <label className=" font-semibold text-xl "
