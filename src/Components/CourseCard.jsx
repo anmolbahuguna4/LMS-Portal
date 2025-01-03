@@ -6,7 +6,7 @@ function CourseCard() {
 
     return (
         <>
-                <div className=" flex flex-wrap justify-start">
+                <div className=" flex flex-wrap justify-start ">
                     {CourseCards.courses.map((item, index) => {
                         return (
                             <div key={index} className=" w-[22.5rem] mx-5 my-5 p-5 bg-gray-100 border border-gray-300 border-b-8 border-b-violet-800 rounded-lg shadow-lg ">

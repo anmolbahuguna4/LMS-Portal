@@ -3,7 +3,7 @@ import CourseCard from "./CourseCard"
 function Module() {
   return (
     <>  
-        <div className=" bg-gray-200 ">
+        <div className=" bg-gray-200 h-full w-[75rem] m-3 ">
             <div className="relative p-3 ">
                 <div className="absolute inset-y-0 left-0 ps-6 
                             flex items-center justify-start 

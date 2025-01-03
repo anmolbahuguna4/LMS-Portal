@@ -15,9 +15,9 @@ function SidePanel() {
 
   return (
     <>
-      <div className=" flex mt-4 w-full ">
-        <div className=" h-screen w-[20%] border border-4-black
-         ">
+    <div className=" h-[100rem] flex w-full ">
+      <div className=" mt-4 w-[17%] h-[100rem] bg-slate-300 ">
+        <div className=" ">
             <div className=" mt-2 flex flex-col ps-3 ">
                 <button className= {`${Button_Details} ${Button_Hover} ${active === 1 ? Active_state : ""} `}
                 onClick={ ()=> setActive(1)}>Module</button>
@@ -29,10 +29,13 @@ function SidePanel() {
                 onClick={ ()=> setActive(4)}>Resources</button>
             </div>
         </div>
-        <div className=" w-[100%] mx-2 ">{active === 1 && <Module/>}</div>
-        {active === 2 && <Batch/>}
-        {active === 3 && <TestModule/>}
-        {active === 4 && <Resources/>}
+      </div>
+      <div className=" w-[80%] h-[100rem] mt-1 ">
+          {active === 1 && <Module/>}
+          {active === 2 && <Batch/>}
+          {active === 3 && <TestModule/>}
+          {active === 4 && <Resources/>}
+        </div>
       </div>
     </>
   )
