@@ -8,11 +8,11 @@ function Batch() {
    const Button_Active = " border border-blue-950 text-white font-semibold bg-blue-950 m-5 px-7 py-2 rounded-[0.3rem] "
    const Button_Hover = " hover:border hover:border-blue-950 hover:text-white hover:font-semibold hover:bg-blue-950 hover:m-5 hover:px-7 hover:py-2 hover:rounded-[0.3rem] "
 
-   const [choose, setChoose] = useState(0);
+   const [choose, setChoose] = useState(1);
 
   return (
     <>
-      <div className=" h-full bg-gray-200 m-3 w-[75rem] ">
+      <div className=" h-full bg-gray-200 ">
         <div>
           <div className="py-2">
           <div className=" border rounded-full mt-2 w-[18rem] bg-white ml-6 font-semibold ">

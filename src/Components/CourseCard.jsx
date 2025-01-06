@@ -6,10 +6,10 @@ function CourseCard() {
 
     return (
         <>
-                <div className=" flex flex-wrap justify-start ">
+                <div className=" flex flex-wrap justify-start overflow-y-hidden">
                     {CourseCards.courses.map((item, index) => {
                         return (
-                            <div key={index} className=" w-[22.5rem] mx-5 my-5 p-5 bg-gray-100 border border-gray-300 border-b-8 border-b-blue-950 rounded-lg shadow-lg ">
+                            <div key={index} className=" w-[22rem] mx-5 my-2 p-4 bg-gray-100 border border-gray-300 border-b-8 border-b-blue-950 rounded-lg shadow-lg ">
                                 <h2 className="text-xl font-bold mb-4 text-blue-950 ">
                                     {item.title}
                                 </h2>

@@ -2,7 +2,7 @@
 function Header() {
   return (
     <>
-        <header className=" w-full flex items-center border border-b-2 shadow-lg font-[Readex Pro] bg-white ">
+        <header className=" w-full flex items-center border border-b-2 shadow-lg font-[Readex Pro] bg-white fixed z-10 ">
             <div className=" w-[25%]">
                 <img src="https://www.lms.brillicaservices.com/images/logo.jpg" className=" w-[40%] h-[90%] mx-12 "></img>
             </div>

@@ -13,7 +13,7 @@ function TestModule() {
 
   return (
     <>
-      <div className=" bg-white w-[75rem] h-full m-3 ">
+      <div className=" bg-white h-full ">
         <div>
           <button className= {`${test_Buttons} ${test_hover} ${get === 1 ? test_Active: ""}`}
           onClick={()=>setGet(1)}>All Test</button>

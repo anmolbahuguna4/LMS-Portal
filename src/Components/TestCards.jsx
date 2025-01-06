@@ -2,7 +2,7 @@
 function TestCards() {
   return (
     <>
-        <div className=" w-full h-full ">
+        <div className=" w-auto h-full ">
             <div className=" flex flex-wrap justify-center items-center ">
                 <div className=" bg-white border border-2 border-gray-300 rounded-lg shadow-xl w-[32rem] h-[40rem] m-2 p-2">
                     <div className=" text-3xl font-extrabold text-gray-400 flex justify-center m-4 ">
